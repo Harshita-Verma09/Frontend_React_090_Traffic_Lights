@@ -4,6 +4,7 @@ A simple React + TypeScript application that simulates a traffic light using ani
 
 ## Features
 
+
 - Animated traffic light with red, green, and yellow cycles
 - Neon glow effect for active light
 - Responsive and modern UI
